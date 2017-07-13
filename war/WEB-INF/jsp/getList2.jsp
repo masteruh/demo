@@ -33,7 +33,7 @@
   <div id="head">
     <!-- aqui falta agregar la insignia del colegio <img src="assets/bg.jpg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>-->
     <h1>Colegio<span class="red"><br />
-Pensatorium</span></h1>
+San Miguel Arcangel</span></h1>
 </div>
 
 <div id="content">

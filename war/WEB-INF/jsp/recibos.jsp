@@ -68,7 +68,7 @@
    <div class="container">
       <!-- aside -->
       <aside>
-         <h3>Categories</h3>
+         <h3>Categorias</h3>
          <ul class="categories">
           
             <li><span><a href="/pensiones">Pagar Pensiones</a></span></li>

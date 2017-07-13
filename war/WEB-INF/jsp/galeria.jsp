@@ -57,7 +57,7 @@
    <div class="container">
       <!-- aside -->
       <aside>
-         <h3>Categories</h3>
+         <h3>Categorias</h3>
          <ul class="categories">
            
          </ul>
@@ -86,17 +86,18 @@
       <!-- content -->
       <section id="content">
          <div id="banner">
-            <h2>Profesionales <span>En Educación <span>Desde 1992</span></span></h2>
+             <h2>Colegio <span>San Miguel <span>Arcangel</span></span></h2>
          </div><div class="ic">More Website Templates at TemplateMonster.com!</div>
          
          <div class="inside">
 		 <h3>Galeria de fotos</h3>
 <div id="es">
-<img src="assets/colegio_salesiano.jpg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>
+<img src="assets/slider-img1.jpg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>
 <br></br>
-<img src="assets/proyectores.jpg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>
 <br></br>
-<img src="assets/computadoras.jpeg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>
+<img src="assets/slider-img2.jpg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>
+<br></br>
+<img src="assets/slider-img3.jpg" style="padding-left:0px; float:left; border-bottom: 1px solid #B5BC5D;"/>
 <br></br>
 </div>
                      
@@ -113,7 +114,7 @@
          <div class="wrapper">
             <div class="fleft"><span></span></div>
             <div class="aligncenter"><a rel="nofollow" href="http://www.templatemonster.com" class="new_window">Website template</a> designed by TemplateMonster.com<br>
-               Arequipa-2015
+               Arequipa-2017
          </div>
       </div>
    </div>

@@ -58,7 +58,7 @@
    <div class="container">
       <!-- aside -->
       <aside>
-         <h3>Categories</h3>
+         <h3>Categorias</h3>
          <ul class="categories">
             
          </ul>
@@ -87,7 +87,7 @@
       <!-- content -->
       <section id="content">
          <div id="banner">
-            <h2>Profesionales <span>En Educación <span>Desde 1992</span></span></h2>
+            <h2>Colegio <span>San Miguel <span>Arcangel</span></span></h2>
          </div><div class="ic">More Website Templates at TemplateMonster.com!</div>
          
          <div class="inside">
