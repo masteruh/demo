@@ -35,7 +35,7 @@
    <!-- header -->
    <header>
       <div class="container">
-         <h1><a href="index.html">Student's site</a></h1>
+         <h1><a href="inicio.html">Student's site</a></h1>
          <nav>
             <ul>           
               <li><a href="inicio.html" class="m1">Inicio</a></li>
